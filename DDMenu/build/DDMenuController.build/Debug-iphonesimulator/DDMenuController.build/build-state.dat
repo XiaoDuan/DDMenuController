@@ -1,0 +1,343 @@
+TDDMenuController
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/Info.plist DDMenuController/DDMenuController-Info.plist
+cProcessPCH /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth DDMenuController/DDMenuController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController normal i386
+cGenerateDSYMFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController
+cCopyStringsFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/en.lproj/InfoPlist.strings DDMenuController/en.lproj/InfoPlist.strings
+cCpResource DDMenuController/DemoImages/left.png build/Debug-iphonesimulator/DDMenuController.app/left.png
+cCpResource DDMenuController/DemoImages/right.png build/Debug-iphonesimulator/DDMenuController.app/right.png
+cTouch /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EA21E550000000000000110
+t1319247445
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m
+c000000004EF454DC0000000000000BA8
+t1324635356
+s2984
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m
+c000000004EF454DC0000000000000759
+t1324635356
+s1881
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m
+c000000004EF454DC000000000000099E
+t1324635356
+s2462
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m
+c000000004EF454DC00000000000009D9
+t1324635356
+s2521
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController-Prefix.pch
+c000000004EF454DC0000000000000191
+t1324635356
+s401
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m
+c000000004EF4564D0000000000004A00
+t1324635725
+s18944
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DemoImages/left.png
+c000000004EF454DC00000000000208E4
+t1324635356
+s133348
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DemoImages/right.png
+c000000004EF454DC00000000000514E3
+t1324635356
+s333027
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/en.lproj/InfoPlist.strings
+c000000004EF454DC000000000000002D
+t1324635356
+s45
+
+N/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m
+c000000004EF454DC000000000000015F
+t1324635356
+s351
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.LinkFileList
+c000000004EF4566C00000000000003AA
+t1324635756
+s938
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/Info.plist
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/PkgInfo
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/left.png
+t2
+s0
+
+N/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/right.png
+t2
+s0
+
+N/var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth
+t2
+s0
+
+NDDMenuController/DDMenuController-Info.plist
+c000000004EF454DC00000000000004BA
+t1324635356
+s1210
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m
+r0
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m
+r0
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m
+r0
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m
+r0
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m
+r0
+
+CBuild AST from /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies60ae75ec8da4b441^1b8499ec8da4b441^---0#1#0#--18"Check dependencies36"C3C1A7E5-C330-46DE-B90F-118BC075F32E-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328562.210445
+e346328562.297529
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m26fd35f28da4b441^fb3a4cf28da4b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m0000000000000000^2977"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o DDMenuController/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/AppDelegate.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/AppDelegate.o36"E3B5B53F-00F1-43C5-9893-A42D03DF028E-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328562.299619
+e346328562.463122
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m42d14cf28da4b441^be9f76f28da4b441^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m0000000000000000^3002"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o DDMenuController/DDMenuController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.o36"8E17B8E2-2C42-4608-8CC7-F02DC5A204B7-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328562.547910
+e346328562.724606
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.ma88f8cf28da4b441^c190b9f28da4b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m0000000000000000^3062"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o DDMenuController/Classes/Controllers/FeedController/FeedController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/FeedController/FeedController.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/FeedController.o36"CAACA516-D9C0-4922-99BF-6C1ED666C408-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328562.465334
+e346328562.545304
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.ma73f77f28da4b441^3fa88bf28da4b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m0000000000000000^3062"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o DDMenuController/Classes/Controllers/LeftController/LeftController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/LeftController/LeftController.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/LeftController.o36"9439AEE8-7B92-4343-9F21-AE354F5CC1DF-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328561.462570
+e346328562.129597
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.mce8c76f18da4b441^603e21f28da4b441^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m0000000000000000^3069"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o DDMenuController/Classes/Controllers/RightController/RightController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/Classes/Controllers/RightController/RightController.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/RightController.o36"D9610F61-8CC7-4596-BB3A-B63C38D7223D-
+
+CCompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328562.131661
+e346328562.208366
+r1
+xCompileC
+xbuild/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o
+x/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m28d221f28da4b441^cb6735f28da4b441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m0000000000000000^2942"CompileC build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o DDMenuController/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -include /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch -MMD -MT dependencies -MF /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.d -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/main.m -o /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/main.o36"C4000AF0-E1C6-4B60-AF06-9EB8C66A11DE-
+
+CCopyStringsFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/en.lproj/InfoPlist.strings DDMenuController/en.lproj/InfoPlist.strings
+s346328564.111340
+e346328564.143857
+r1
+xCopyStringsFile
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/en.lproj/InfoPlist.strings
+xDDMenuController/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy DDMenuController/en.lproj/InfoPlist.stringsc4941cf48da4b441^1fd924f48da4b441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/en.lproj/InfoPlist.strings0000000000000000^563"CopyStringsFile build/Debug-iphonesimulator/DDMenuController.app/en.lproj/InfoPlist.strings DDMenuController/en.lproj/InfoPlist.strings    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/en.lproj -- DDMenuController/en.lproj/InfoPlist.strings36"19D0D7BC-111E-4F79-B404-E8204F89F42B-
+
+CCpResource DDMenuController/DemoImages/left.png build/Debug-iphonesimulator/DDMenuController.app/left.png
+s346328564.146995
+e346328564.155707
+r1
+xCpResource
+xDDMenuController/DemoImages/left.png
+xbuild/Debug-iphonesimulator/DDMenuController.app/left.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/DDMenuController.app/left.pngbbb425f48da4b441^d6e227f48da4b441^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/left.png00f404c2dcffdf42^583"CpResource DDMenuController/DemoImages/left.png build/Debug-iphonesimulator/DDMenuController.app/left.png    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DemoImages/left.png /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app36"110B150E-F304-4510-8015-EA067D9D4F56-
+
+CCpResource DDMenuController/DemoImages/right.png build/Debug-iphonesimulator/DDMenuController.app/right.png
+s346328564.159090
+e346328564.166516
+r1
+xCpResource
+xDDMenuController/DemoImages/right.png
+xbuild/Debug-iphonesimulator/DDMenuController.app/right.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/DDMenuController.app/right.png52d128f48da4b441^87a82af48da4b441^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/right.png00f404c2dcffdf42^586"CpResource DDMenuController/DemoImages/right.png build/Debug-iphonesimulator/DDMenuController.app/right.png    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DemoImages/right.png /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app36"0EC569B9-CC53-4C97-83F9-8FA040C77A04-
+
+CGenerateDSYMFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController
+s346328563.792763
+e346328564.100645
+r1
+xGenerateDSYMFile
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generating /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM8505cbf38da4b441^0bd119f48da4b441^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM00f404c2dcffdf42^571"GenerateDSYMFile build/Debug-iphonesimulator/DDMenuController.app.dSYM build/Debug-iphonesimulator/DDMenuController.app/DDMenuController    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController -o /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app.dSYM36"48FBB742-895F-4F89-9431-568D08DAF028-
+
+CLd /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController normal i386
+s346328562.732118
+e346328563.785384
+r1
+xLd
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuControllerd386bbf28da4b441^c18cc9f38da4b441^---0#0#0#--1156"Ld build/Debug-iphonesimulator/DDMenuController.app/DDMenuController normal i386    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -filelist /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/Objects-normal/i386/DDMenuController.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/DDMenuController36"3C4D464F-FB84-43CC-BE17-D9CC792B25B1-
+
+CProcessInfoPlistFile /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/Info.plist DDMenuController/DDMenuController-Info.plist
+s346328556.604591
+e346328556.616920
+r1
+xProcessInfoPlistFile
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/Info.plist
+xDDMenuController/DDMenuController-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process DDMenuController/DDMenuController-Info.plist7bd99aec8da4b441^768d9eec8da4b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController-Info.plist0000000000000000^673"ProcessInfoPlistFile build/Debug-iphonesimulator/DDMenuController.app/Info.plist DDMenuController/DDMenuController-Info.plist    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DDMenuController/DDMenuController-Info.plist -genpkginfo /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app/Info.plist36"5F6CEE7E-5358-4F38-B910-E2E696FEB923-
+
+CProcessPCH /Users/apple/Library/Developer/Xcode/DerivedData/DDMenuController-dbaqcjvzjamgwufmdabscsggzrfy/Index/PrecompiledHeaders/DDMenuController-Prefix-gxetvtlxuckkepegwxwykgqvkfyn_ast/DDMenuController-Prefix.pch.pth DDMenuController/DDMenuController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth DDMenuController/DDMenuController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346328556.626038
+e346328561.454901
+r1
+xProcessPCH
+x/var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth
+xDDMenuController/DDMenuController-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile DDMenuController/DDMenuController-Prefix.pch38dba0ec8da4b441^fd8774f18da4b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController-Prefix.pch0000000000000000^2947"ProcessPCH /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth DDMenuController/DDMenuController-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-generated-files.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-own-target-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-all-target-headers.hmap -iquote /Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DDMenuController-project-headers.hmap -I/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/include -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources/i386 -I/Users/apple/Documents/DDMenuController/DDMenu/build/DDMenuController.build/Debug-iphonesimulator/DDMenuController.build/DerivedSources -F/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator -c /Users/apple/Documents/DDMenuController/DDMenu/DDMenuController/DDMenuController-Prefix.pch -o /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/tl/5y3gcfhj1q9dhk67_gtdwz_h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/DDMenuController-Prefix-gqkfbsuhskjndubdieakfychsdyt/DDMenuController-Prefix.pch.d36"09164F09-0080-450E-B99D-C256198882B1-
+
+CTouch /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app
+s346328564.177493
+e346328564.226433
+r1
+xTouch
+x/Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app8c812df48da4b441^e2043af48da4b441^---0#0#0#--358"Touch build/Debug-iphonesimulator/DDMenuController.app    cd /Users/apple/Documents/DDMenuController/DDMenu    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/apple/Documents/DDMenuController/DDMenu/build/Debug-iphonesimulator/DDMenuController.app36"DB521543-C653-4710-B310-A948BA520B4D-
+

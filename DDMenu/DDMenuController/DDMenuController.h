@@ -46,7 +46,7 @@ typedef enum {
     CGFloat _panOriginX;
     CGPoint _panVelocity;
     DDMenuPanDirection _panDirection;
-
+    
     struct {
         unsigned int respondsToWillShowViewController:1;
         unsigned int showingLeftView:1;
@@ -59,8 +59,8 @@ typedef enum {
 
 @property(nonatomic,assign) id <DDMenuControllerDelegate,UINavigationControllerDelegate> delegate;
 
-@property(nonatomic,strong) UIViewController *leftController;
-@property(nonatomic,strong) UIViewController *rightController;
+@property(nonatomic,retain) UIViewController *leftController;
+@property(nonatomic,retain) UIViewController *rightController;
 
 @property(nonatomic,readonly) UITapGestureRecognizer *tap;
 @property(nonatomic,readonly) UIPanGestureRecognizer *pan;
